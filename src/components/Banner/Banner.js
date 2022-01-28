@@ -24,12 +24,8 @@ const Banner = () => {
             <Card className="w-100">
                 <Card.Img src={banner1} alt="Card image" />
                 <Card.ImgOverlay>
-                    <Card.Title>Card title</Card.Title>
-                    <Card.Text>
-                    This is a wider card with supporting text below as a natural lead-in to
-                    additional content. This content is a little bit longer.
-                    </Card.Text>
-                    <Card.Text>Last updated 3 mins ago</Card.Text>
+                    <Card.Title>Travel Agency</Card.Title>
+                  
                 </Card.ImgOverlay>
             </Card>
           </div>
@@ -38,12 +34,8 @@ const Banner = () => {
           <Card className="w-100">
                 <Card.Img src={banner2} alt="Card image" />
                 <Card.ImgOverlay>
-                    <Card.Title>Card title</Card.Title>
-                    <Card.Text>
-                    This is a wider card with supporting text below as a natural lead-in to
-                    additional content. This content is a little bit longer.
-                    </Card.Text>
-                    <Card.Text>Last updated 3 mins ago</Card.Text>
+                    <Card.Title>Travel Agency</Card.Title>
+                    
                 </Card.ImgOverlay>
             </Card>
           </div>
@@ -51,12 +43,8 @@ const Banner = () => {
           <Card className="w-100">
                 <Card.Img src={banner3} alt="Card image" />
                 <Card.ImgOverlay>
-                    <Card.Title>Card title</Card.Title>
-                    <Card.Text>
-                    This is a wider card with supporting text below as a natural lead-in to
-                    additional content. This content is a little bit longer.
-                    </Card.Text>
-                    <Card.Text>Last updated 3 mins ago</Card.Text>
+                    <Card.Title>Travel Agency</Card.Title>
+                    
                 </Card.ImgOverlay>
             </Card>
           </div>
