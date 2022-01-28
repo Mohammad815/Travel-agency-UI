@@ -10,6 +10,7 @@ import Contact from './components/Contact/Contact'
 import About from './components/About/About'
 import Header from './components/Header/Header';
 import Login from './components/Login/Login';
+import AddExperience from './components/AddExperience/AddExperience';
 
 
 
@@ -26,6 +27,7 @@ function App() {
           {/* <Route path="addproject" element={<AddProject />} /> */}
           <Route path="about" element={<About />} />
           <Route path="login" element={<Login />} />
+          <Route path="experience" element={<AddExperience />} />
        
           {/* <Route path="projects/:projectId" element={<ProjectDetails />} />
           <Route path="blog" element={<Blog />} /> */}

@@ -16,6 +16,7 @@ const Header = () => {
           {/* <Link className="link" to="/blog">Blog</Link> */}
           <Link className="link" to="/contact">Contact</Link>
           <Link className="link" to="/login">Login</Link>
+          <Link className="link" to="/experience">add</Link>
          
         </Nav>
         </Navbar.Collapse>
